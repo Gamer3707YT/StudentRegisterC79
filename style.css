@@ -1,0 +1,15 @@
+input {
+    margin: 10px;
+}
+#btnSubmit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#btnSort {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#display {
+    font-weight: bold;
+}
